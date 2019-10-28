@@ -1,6 +1,6 @@
 {
   "name": "@nilsboy/http-echo-server",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "http-echo-server",
   "directories": {
     "bin": "./bin"
