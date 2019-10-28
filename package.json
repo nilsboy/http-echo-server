@@ -2,7 +2,9 @@
   "name": "@nilsboy/http-echo-server",
   "version": "1.0.1",
   "description": "http-echo-server",
-  "main": "index.js",
+  "directories": {
+    "bin": "./bin"
+  },
   "scripts": {
     "test": "test"
   },
