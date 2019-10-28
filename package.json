@@ -1,0 +1,23 @@
+{
+  "name": "@nilsboy/http-echo-server",
+  "version": "1.0.0",
+  "description": "http-echo-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nilsboy/http-echo-server.git"
+  },
+  "keywords": [
+    "http",
+    "echo",
+    "server"
+  ],
+  "author": "nils@boysen.info",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
